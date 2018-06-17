@@ -20,7 +20,7 @@ A keni parë ndonjëherë brenda një  kompjuteri, ose keni parë figura të bre
 </h4>
 </div>
 <div class="site2">
-<iframe width="1000" height="415" src="https://www.youtube.com/embed/4eNTlwnnhss" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="450" height="315" src="https://www.youtube.com/embed/4eNTlwnnhss" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <div class="site3">
     <h1>Matherboard</h1>
