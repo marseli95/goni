@@ -13,6 +13,10 @@
 <div class="site-header">
 <h1>BRENDA NJE KOMPJUTERI </h1>
 </div>
+<div class="content" col-md-6 offset-2>
+A keni parë ndonjëherë brenda një  kompjuteri, ose keni parë figura të brendësisë së tij? Një pamje kompjuteri nuk është aspak misterioz. Ky mësim do t'ju ndihmojë të zotni disa terminologjinë bazë dhe të kuptoni se si të punoni me nje kompjuter.
+
+</div>
 </body>
 </html>
 
