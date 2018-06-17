@@ -1,3 +1,3 @@
 <?php
-echo "kjo eshte faqja e pare php";
+echo "kjo eshte faqja e 20 php";
 ?>
