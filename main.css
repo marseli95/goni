@@ -1,5 +1,72 @@
-.site-header>h1{
-
+.site-header{
+    grid-area: site-header;
     text-align: center;
     color: blue;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 2fr  500px 500px 2fr ;
+    grid-template-rows: 1fr 1fr ;
+    grid-template-areas: 
+    ". site-header site-header ."
+    ". site1 site1 ."
+    ". site2 site2 ."
+    ". site3 site3 ."
+    ". site4 site4 ."
+    ". site5 site5 ."
+    ". site6 site6 ."
+    ". site7 site7 ."
+    ". site8 site8 ."
+    ". site9 site9 ."
+    ". site10 site10 ."
+    
+
+}
+.site1{
+    grid-area: site1;
+    text-align: center;
+}
+.site2{
+    grid-area: site2;
+    text-align: center;
+}
+.site3{
+    grid-area: site3;
+    text-align: center;
+    
+}
+.site4{
+    grid-area: site4;
+    text-align: center;
+    
+}
+.site5{
+    grid-area: site5;
+    text-align: center;
+    
+}
+.site6{
+    grid-area: site6;
+    text-align: center;
+    
+}
+.site7{
+    grid-area: site7;
+    text-align: center;
+    
+}
+.site8{
+    grid-area: site8;
+    text-align: center;
+    
+}
+.site9{
+    grid-area: site9;
+    text-align: center;
+    
+}
+.site10{
+    grid-area: site10;
+    text-align: center;
+    
 }
