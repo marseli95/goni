@@ -10,8 +10,9 @@
     <script src="main.js"></script>
 </head>
 <body>
+<div class="site-header">
 <h1>BRENDA NJE KOMPJUTERI </h1>
-
+</div>
 </body>
 </html>
 
